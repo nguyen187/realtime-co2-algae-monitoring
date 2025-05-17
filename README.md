@@ -1,7 +1,7 @@
 # Development Of Yolo Machine Learning Model And Real-time Streaming Operational Parameters Of CO2 Micro Algae Capture Pilot
 
 <div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/img/blob/main/Overview_algae.png" width="800">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/Overview_algae.png" width="800">
 </div>
 
 
@@ -18,7 +18,7 @@ thực.
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/img/blob/main/H1.png" width="800">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/H1.png" width="800">
 </div>
 
 
@@ -33,7 +33,7 @@ Hệ thống giám xác bao gồm:
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/img/blob/main/H2.png" width="800">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/H2.png" width="800">
 </div>
 
 
@@ -55,7 +55,7 @@ Cài đặt thiết bị:
 Bộ dữ liệu:
 - Bộ dữ liệu hơn 700 ảnh chụp bọt khí với kích thước 640x640 với hệ thống thiết bị được xây dựng như hình bên chia đều ở 3 trạng thái: yếu, bình thường và mạnh.
 <div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/img/blob/main/dataset.png" width="800">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/dataset.png" width="800">
 </div>
 
 
@@ -63,7 +63,7 @@ Bộ dữ liệu:
 ## 3. Kết quả huấn luyện mô hình:
 
 <div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/img/blob/main/result.png" width="800">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/result.png" width="800">
 </div>
 
 
