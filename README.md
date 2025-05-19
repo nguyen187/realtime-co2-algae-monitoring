@@ -16,15 +16,19 @@ thực.
 
 ## 1.  Kiểm soát bột khí  CO2 theo thời gian thực trên cloud
 
-
 <div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/H1.png" width="800">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/yolo_component.png" width="800">
 </div>
 
 
 - Nồng độ và trạng thái của bọt khí CO2 ảnh hưởng trực tiếp đến hiệu suất chất lượng sản phẩm
 - Giám sát bột khí CO2 là tiêu chí quan trọng trong quá trình sản xuất sản phẩm AAA 
  
+<div style="text-align: center;">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/H1.png" width="800">
+</div>
+
+
 Hệ thống giám xác bao gồm:
 - Camera của smart phone xử dụng để ghi nhận hình ảnh của bột khí
 - Xây dựng mô hình Yolo sử dụng để tự động hóa việc giám xác nồng độ và trạng thái bột khí từ camera
@@ -64,6 +68,16 @@ Bộ dữ liệu:
 
 <div style="text-align: center;">
   <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/result.png" width="800">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/train_batch1.png" width="800">
+</div>
+
+
+## 4. Monitoring Application:
+<div style="text-align: center;">
+  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/application_yolo.png" width="800">
 </div>
 
 
