@@ -69,10 +69,10 @@ Bộ dữ liệu:
 <div style="text-align: center;">
   <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/result.png" width="800">
 </div>
-
-<div style="text-align: center;">
-  <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/train_batch1.jpg" width="800">
-</div>
+<!---->
+<!-- <div style="text-align: center;"> -->
+<!--   <img src="https://github.com/nguyen187/realtime-co2-algae-monitoring/blob/main/img/train_batch1.jpg" width="800"> -->
+<!-- </div> -->
 
 
 ## 4. Monitoring Application:
